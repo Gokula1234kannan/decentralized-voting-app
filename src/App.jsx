@@ -5,7 +5,7 @@ import Header from "./components/Header";
 import VoteSection from "./components/VoteSection";
 import ResultsSection from "./components/ResultsSection";
 
-const contractAddress = "0x8Df8D916A7B25559A21Fe97416B43DE3861f82B9";
+const contractAddress = "0x642AB41a71320fcbB359679D19c135DA071CBd77";
 
 function App() {
   const [walletAddress, setWalletAddress] = useState("");
